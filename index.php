@@ -1,7 +1,7 @@
 <html lang="en">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Shubhansh Srivastava</title>
+        <title>Manvendra Pratap Singh</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <link rel="stylesheet" href="stylesheet/index.css">
@@ -49,11 +49,11 @@
             </div>
             <div class="row">
                 <div class="col-md-1 social">
-                    <a href="https://www.linkedin.com/in/shubhansh-srivastava-646132b3" target="_blank"><i class="fa fa-linkedin social_outline"></i></a><br />
-                    <a href="https://twitter.com/imshubh4" target="_blank"><i class="fa fa-twitter social_outline mt-4"></i></a><br />
-                    <a href="https://www.instagram.com/imshubh96/" target="_blank"><i class="fa fa-instagram social_outline mt-4"></i></a><br />
-                    <a href="https://wa.me/+919984649620" target="_blank"><i class="fa fa-whatsapp social_outline mt-4"></i></a><br />
-                    <a href="https://www.facebook.com/shubhansh.srivastava.79" target="_blank"><i class="fa fa-facebook social_outline mt-4"></i></a><br />
+                    <a href="javascript:void(0);" target="_blank"><i class="fa fa-linkedin social_outline"></i></a><br />
+                    <a href="javascript:void(0);" target="_blank"><i class="fa fa-twitter social_outline mt-4"></i></a><br />
+                    <a href="javascript:void(0);" target="_blank"><i class="fa fa-instagram social_outline mt-4"></i></a><br />
+                    <a href="https://wa.me/+918601036774" target="_blank"><i class="fa fa-whatsapp social_outline mt-4"></i></a><br />
+                    <a href="javascript:void(0);" target="_blank"><i class="fa fa-facebook social_outline mt-4"></i></a><br />
                     <div class="border_left mt-4">
                         
                     </div>
@@ -61,8 +61,8 @@
                 <div class="col-md-10" style="z-index:9;">
                     <div id="main">
                         <div class="hi">Hi, my name is</div>
-                        <div class="name">Shubhansh Srivastava</div>
-                        <div class="special">Web Developer. App Developer.</div>
+                        <div class="name">Manvendra Pratap Singh</div>
+                        <div class="special">Front End Developer.</div>
                         <div class="content mt-4">
                             I'm a software engineer with specialization in web development as well as mobile application development. Currently I'm working as a lead developer in Devxsoft Private Limited.<br />
                           
@@ -76,7 +76,7 @@
                         <br />
                         <div class="row">
                             <div class="col-md-5 about_content">
-                                Hey there! My name is Shubhansh and I love creating things that live on internet.I have been working as a web and mobile app developer from last 5 years. My interest in web development started back in 2015 when I started my own browser
+                                Hey there! My name is Manvendra and I love creating things that live on internet.I have been working as a web and mobile app developer from last 5 years. My interest in web development started back in 2015 when I started my own browser
                                 based massive multiplayer online role playing game and soon within few months the daily active users crossed 1000. Since then I have gained more and more knowledge and learned new technologies to create awesome things.<br /><br />
                                 Recently in 2019, I graduated with Bachelor's degree in Computer Science and in the meantime I worked as a freelance full stack web developer to convert my client's ideas to a running web business.Currently I'm working as a lead developer
                                 for <a href="https://www.devxsoft.com" target="_blank" class="company">Devxsoft Private Limited</a>, an Indian startup.<br /><Br />
@@ -86,14 +86,13 @@
                                         <i class="fa fa-chevron-right arrow"></i><span class="skill">HTML/HTML5</span> <br />
                                         <i class="fa fa-chevron-right arrow"></i><span class="skill">Javascript</span> <br />
                                         <i class="fa fa-chevron-right arrow"></i><span class="skill">PHP</span> <br />
-                                        <i class="fa fa-chevron-right arrow"></i><span class="skill">Java</span> <br />
                                         <i class="fa fa-chevron-right arrow"></i><span class="skill">MySQL</span> 
                                     </div>
                                     <div class="col-md-6">
                                         <i class="fa fa-chevron-right arrow"></i><span class="skill">CSS/CSS3</span> <br />
                                         <i class="fa fa-chevron-right arrow"></i><span class="skill">JQuery</span> <br />
                                         <i class="fa fa-chevron-right arrow"></i><span class="skill">AJAX</span> <br />
-                                        <i class="fa fa-chevron-right arrow"></i><span class="skill">Android Development</span> 
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -121,18 +120,18 @@
                             </div>
                             <div class="col-md-6">
                                 <div id="devxsoft">
-                                    <div class="company_title">Lead Developer</div>
+                                    <div class="company_title">Front End Developer</div>
                                     <div class="company_time">October 2020 - Present</div><br />
                                     <i class="fa fa-chevron-right company_arrow"></i><p class="company_desc">Working in a team of 2 to develop complicated website and web apps.</p> <br />
                                     <i class="fa fa-chevron-right company_arrow mt-3"></i><p class="company_desc">Working on various android based applications like quiz system, social media platforms etc.</p> <br />
                                 </div>
                                 <div id="freelancer" style="display:none;">
-                                    <div class="company_title">Full Stack Developer</div>
+                                    <div class="company_title">Front End Developer</div>
                                     <div class="company_time">August 2016 - October 2020</div><br />
                                     <i class="fa fa-chevron-right company_arrow"></i><p class="company_desc">Worked individually to develop various websites that includes blogs,company website as well as RPGs .</p> <br />
                                     <i class="fa fa-chevron-right company_arrow mt-3"></i><p class="company_desc">Worked for clients across the globe to convert their ideas to a full fletched web business</p> <br />
                                 </div>
-                                <div id="mars" style="display:none;">
+                                <!-- <div id="mars" style="display:none;">
                                     <div class="company_title">PHP Intern</div>
                                     <div class="company_time">June 2016 - July 2016</div><br />
                                     <i class="fa fa-chevron-right company_arrow"></i><p class="company_desc">Worked as an intern for an established organsation.</p> <br />
@@ -143,7 +142,7 @@
                                     <div class="company_time">April 2015 - May 2016</div><br />
                                     <i class="fa fa-chevron-right company_arrow"></i><p class="company_desc">Worked in a team of three to develop a browser based RPG with 1000+ daily active users.</p> <br />
                                     <i class="fa fa-chevron-right company_arrow mt-3"></i><p class="company_desc">Worked purely in PHP and AJAX with MySQL database to develop complex system like twitter based follow/tweet..</p> <br />
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         
@@ -334,7 +333,7 @@
                          <i class="fa fa-headphones heading_icon"></i><span class="heading">Get in Touch<div class="heading_line4"></div><br />
                          <div class="contact_box">
                              <div class="contact_content">
-                                 If you are looking for a website/mobile application or in need of any sort of coding help feel free to contact me using the below form. I will try to reply you as soon as possible.
+                                 If you are looking for a Front End Developer or in need of any sort of coding help feel free to contact me using the below form. I will try to reply you as soon as possible.
                              </div>
                              <div class="row form_margin">
                                  <div class="col-md-1">
@@ -397,11 +396,11 @@
                     </div>
                     <!-- Copyright Section -->
                     <div class="copyright">
-                        <center>Designed & Developed By Shubhansh Srivastava</center>
+                        <center>Designed & Developed By Manvendra Pratap Singh</center>
                     </div>
                 </div>
                 <div class="col-md-1 mail">
-                    <a href="mailto: shubhansh@devxsoft.com" class="mail_right">shubhansh@devxsoft.com</a>
+                    <a href="mailto: manvendra@devxsoft.com" class="mail_right">manvendra@devxsoft.com</a>
                     <div class="border_right mt-4">
                        
                     </div>
