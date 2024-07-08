@@ -163,7 +163,7 @@
                                     desired design and get it printed on a T-shirt.
                                 </div>
                                 <div class="featured_skill">
-                                    <span class="f_work">CSS/CSS3</span> <span class="f_work">Bootstrap</span> <span class="f_work">PHP</span> <span class="f_work">AJAX</span> <span class="f_work">JQuery</span> <span class="f_work">FabricJS</span> <span class="f_work">MySQL</span>
+                                    <span class="f_work">CSS/CSS3</span> <span class="f_work">Bootstrap</span> <span class="f_work">PHP</span> <span class="f_work">AJAX</span> <span class="f_work">JQuery</span>  <span class="f_work">MySQL</span>
                                 </div>
                                 <div class="f_link">
                                     <a href="https://www.odjeca.in" target="_blank"><i class="fa fa-external-link f_link_content"></i></a>
