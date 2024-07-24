@@ -115,8 +115,8 @@
                             <div class="col-md-2">
                                 <li class="work_active" onclick="devxsoft()" id="d">Devxsoft</li>
                                 <li class="work_inactive" onclick="freelancer()" id="f">Freelancer</li>
-                                <li class="work_inactive" onclick="mars()" id="m">The Web Artist</li>
-                                <li class="work_inactive" onclick="dusk()" id="du">Dusk RPG</li>
+                                <!-- <li class="work_inactive" onclick="mars()" id="m">The Web Artist</li>
+                                <li class="work_inactive" onclick="dusk()" id="du">Dusk RPG</li> -->
                             </div>
                             <div class="col-md-6">
                                 <div id="devxsoft">
@@ -412,34 +412,34 @@
             {
                 document.getElementById('devxsoft').style.display="block";
                 document.getElementById('freelancer').style.display="none";
-                document.getElementById('mars').style.display="none";
-                document.getElementById('dusk').style.display="none";
+                // document.getElementById('mars').style.display="none";
+                // document.getElementById('dusk').style.display="none";
                 $("#f").removeClass("work_active");
-                $("#m").removeClass("work_active");
-                $("#du").removeClass("work_active");
+                // $("#m").removeClass("work_active");
+                // $("#du").removeClass("work_active");
                 $("#d").removeClass("work_active");
                 
                 $("#d").addClass("work_active");
                 $("#f").addClass("work_inactive");
-                $("#m").addClass("work_inactive");
-                $("#du").addClass("work_inactive");
+                // $("#m").addClass("work_inactive");
+                // $("#du").addClass("work_inactive");
             }
              function freelancer()
             {
                 document.getElementById('freelancer').style.display="block";
                 document.getElementById('devxsoft').style.display="none";
-                document.getElementById('mars').style.display="none";
-                document.getElementById('dusk').style.display="none";
+                // document.getElementById('mars').style.display="none";
+                // document.getElementById('dusk').style.display="none";
                
                 $("#f").removeClass("work_active");
-                $("#m").removeClass("work_active");
-                $("#du").removeClass("work_active");
+                // $("#m").removeClass("work_active");
+                // $("#du").removeClass("work_active");
                 $("#d").removeClass("work_active");
                 
                 $("#d").addClass("work_inactive");
                 $("#f").addClass("work_active");
-                $("#m").addClass("work_inactive");
-                $("#du").addClass("work_inactive");
+                // $("#m").addClass("work_inactive");
+                // $("#du").addClass("work_inactive");
             }
              function mars()
             {
