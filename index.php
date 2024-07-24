@@ -211,7 +211,7 @@
                         </div>
                         <br /><Br />
                         <div class="other_projects"><center>Other Noteworthy Projects</center></div>
-                        <div class="o_p_box1">
+                        <!-- <div class="o_p_box1">
                             <center>
                                 <i class="fa fa-android o_p_icon"></i>
                             </center>
@@ -229,8 +229,8 @@
                                     <span>Java</span><span class="ml-3">XML</span><span class="ml-3">Android</span><span class="ml-3">AJAX</span><span class="ml-3">JSON</span><span class="ml-3">PHP</span>
                                 </center>
                             </div>
-                        </div>
-                        <div class="o_p_box2">
+                        </div> -->
+                        <!-- <div class="o_p_box2">
                             <center>
                                 <i class="fa fa-globe o_p_icon"></i>
                             </center>
@@ -249,8 +249,8 @@
                                     <span>Java</span><span class="ml-3">JSP</span><span class="ml-3">HTML</span><span class="ml-3">CSS/CSS3</span><span class="ml-3">MYSQL</span><span class="ml-3">Bootstrap</span>
                                 </center>
                             </div>
-                        </div>
-                        <div class="o_p_box2">
+                        </div> -->
+                        <!-- <div class="o_p_box2">
                             <center>
                                 <i class="fa fa-android o_p_icon"></i>
                             </center>
@@ -269,7 +269,7 @@
                                     <span>Java</span><span class="ml-3">XML</span><span class="ml-3">Android</span><span class="ml-3">AJAX</span><span class="ml-3">JSON</span><span class="ml-3">PHP</span>
                                 </center>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="o_p_box1">
                             <center>
                                 <i class="fa fa-globe o_p_icon"></i>
@@ -291,21 +291,21 @@
                         </div>
                         <div class="o_p_box2">
                             <center>
-                                <i class="fa fa-android o_p_icon"></i>
+                                <i class="fa fa-globe o_p_icon"></i>
                             </center>
                             <div class="o_p_head">
-                                <center>Reminding Schedules</center>
+                                <center>Alumni Job Posting</center>
                             </div>
                             <div class="o_p_content">
-                                Android application that can help us to remember any occasion/Errand.
-                                It can resemble reminding us about a meeting, time to pay any bill and so forth. The
-                                application 
-                                store the points of interest to the database and caution the client 10 min before the
-                                occasion.
+                                Alumni-job posting for student is a web based application with two
+                                type of users , employer and student. Students can register
+                                themselves, modify their details and can search and apply for jobs
+                                whereas employers can register, post a job and can shortlist and
+                                select students.
                             </div>
                             <div class="o_p_skill">
                                 <center>
-                                    <span>Java</span><span class="ml-3">XML</span><span class="ml-3">Android Studio</span><span class="ml-3">
+                                    <span>PHP</span><span class="ml-3">AJAX</span><span class="ml-3">HTML</span><span class="ml-3">CSS/CSS3</span><span class="ml-3">MYSQL</span><span class="ml-3">Bootstrap</span>
                                 </center>
                             </div>
                         </div>
@@ -400,7 +400,7 @@
                     </div>
                 </div>
                 <div class="col-md-1 mail">
-                    <a href="mailto: manvendra@devxsoft.com" class="mail_right">manvendra@devxsoft.com</a>
+                    <a href="javascript:void(0)" class="mail_right">manvendra@devxsoft.com</a>
                     <div class="border_right mt-4">
                        
                     </div>

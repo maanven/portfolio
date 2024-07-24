@@ -242,7 +242,7 @@ a:hover
 .about_pic
 {
     border-radius:5px;
-    background:url('../images/my.jpeg');
+    background:url('../images/my.jpg');
     background-size:cover;
     padding-left:0 !important;
     padding-right:0 !important;
