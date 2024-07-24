@@ -115,8 +115,7 @@
                             <div class="col-md-2">
                                 <li class="work_active" onclick="devxsoft()" id="d">Devxsoft</li>
                                 <li class="work_inactive" onclick="freelancer()" id="f">Freelancer</li>
-                                <!-- <li class="work_inactive" onclick="mars()" id="m">The Web Artist</li>
-                                <li class="work_inactive" onclick="dusk()" id="du">Dusk RPG</li> -->
+                                
                             </div>
                             <div class="col-md-6">
                                 <div id="devxsoft">
@@ -131,18 +130,7 @@
                                     <i class="fa fa-chevron-right company_arrow"></i><p class="company_desc">Worked individually to develop various websites that includes blogs,company website as well as RPGs .</p> <br />
                                     <i class="fa fa-chevron-right company_arrow mt-3"></i><p class="company_desc">Worked for clients across the globe to convert their ideas to a full fletched web business</p> <br />
                                 </div>
-                                <!-- <div id="mars" style="display:none;">
-                                    <div class="company_title">PHP Intern</div>
-                                    <div class="company_time">June 2016 - July 2016</div><br />
-                                    <i class="fa fa-chevron-right company_arrow"></i><p class="company_desc">Worked as an intern for an established organsation.</p> <br />
-                                    <i class="fa fa-chevron-right company_arrow mt-3"></i><p class="company_desc">Throughout this period I worked to develop dashboard system as well as admin panels.</p> <br />
-                                </div>
-                                <div id="dusk" style="display:none;">
-                                    <div class="company_title">Backend Developer</div>
-                                    <div class="company_time">April 2015 - May 2016</div><br />
-                                    <i class="fa fa-chevron-right company_arrow"></i><p class="company_desc">Worked in a team of three to develop a browser based RPG with 1000+ daily active users.</p> <br />
-                                    <i class="fa fa-chevron-right company_arrow mt-3"></i><p class="company_desc">Worked purely in PHP and AJAX with MySQL database to develop complex system like twitter based follow/tweet..</p> <br />
-                                </div> -->
+                             
                             </div>
                         </div>
                         
@@ -151,6 +139,48 @@
                     <div class="work" id="work">
                         <i class="fa fa-code heading_icon"></i><span class="heading">Somethings I've built<div class="heading_line3"></div><br />
                         <div class="featured_work">
+                            <div class="ss4" >
+                                <div class="ss_cover">
+                                </div>
+                            </div>
+                            <div class="ss_content">
+                                <div class="featured_head">Featured Work</div><br />
+                                <div class="featured_name">Tours & Travel</div><br />
+                                <div class="featured_content">
+                                    Odjeca India is a custom design clothing e-commerce store with 60+ orders within few months. Users can either upload their images or can use the add text option to add their 
+                                    desired design and get it printed on a T-shirt.
+                                </div>
+                                <div class="featured_skill">
+                                    <span class="f_work">CSS/CSS3</span> <span class="f_work">Bootstrap</span> <span class="f_work">PHP</span> <span class="f_work">AJAX</span> <span class="f_work">JQuery</span>  <span class="f_work">MySQL</span>
+                                </div>
+                                <div class="f_link">
+                                    <a href="https://www.happytoursandtravel.in" target="_blank"><i class="fa fa-external-link f_link_content"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <br/><br/>
+                        <div class="featured_work mt-5">
+                            <div class="ss_content">
+                                <div class="featured_head2">Featured Work</div><br />
+                                <div class="featured_name2">CDS Academy</div><br />
+                                <div class="featured_content2">
+                                    Devxsoft Private Limited is a web and app development company where I am working as a lead developer and responsible for managing as well as developing websites and mobile applications
+                                    that help our client to grow their business online.
+                                </div>
+                                <div class="featured_skill2">
+                                    <span class="f_work2">CSS/CSS3</span> <span class="f_work2">Bootstrap</span> <span class="f_work2">PHP</span> <span class="f_work2">AJAX</span> <span class="f_work2">JQuery</span> 
+                                </div>
+                                <div class="f_link2">
+                                    <a href="https://cdsacademy.in" target="_blank"><i class="fa fa-external-link f_link_content2"></i></a>
+                                </div>
+                            </div>
+                            <div class="ss5" >
+                                <div class="ss_cover">
+                                </div>
+                            </div>
+                        </div>
+                        <br /><Br />
+                        <div class="featured_work mt-5">
                             <div class="ss1" >
                                 <div class="ss_cover">
                                 </div>
@@ -211,65 +241,7 @@
                         </div>
                         <br /><Br />
                         <div class="other_projects"><center>Other Noteworthy Projects</center></div>
-                        <!-- <div class="o_p_box1">
-                            <center>
-                                <i class="fa fa-android o_p_icon"></i>
-                            </center>
-                            <div class="o_p_head">
-                                <center>Whoopee : An Android Assistant</center>
-                            </div>
-                            <div class="o_p_content">
-                                Whoopee is a mobile application based on a voice recognition system or can
-                                be called as an assistant. This application recognizes the voice command
-                                given to it and perform the task accordingly. It provides the user with the ease
-                                to directly communicate with their devices with their voice.
-                            </div>
-                            <div class="o_p_skill">
-                                <center>
-                                    <span>Java</span><span class="ml-3">XML</span><span class="ml-3">Android</span><span class="ml-3">AJAX</span><span class="ml-3">JSON</span><span class="ml-3">PHP</span>
-                                </center>
-                            </div>
-                        </div> -->
-                        <!-- <div class="o_p_box2">
-                            <center>
-                                <i class="fa fa-globe o_p_icon"></i>
-                            </center>
-                            <div class="o_p_head">
-                                <center>Alumni Job Posting</center>
-                            </div>
-                            <div class="o_p_content">
-                                Alumni-job posting for student is a web based application with two
-                                type of users , employer and student. Students can register
-                                themselves, modify their details and can search and apply for jobs
-                                whereas employers can register, post a job and can shortlist and
-                                select students.
-                            </div>
-                            <div class="o_p_skill">
-                                <center>
-                                    <span>Java</span><span class="ml-3">JSP</span><span class="ml-3">HTML</span><span class="ml-3">CSS/CSS3</span><span class="ml-3">MYSQL</span><span class="ml-3">Bootstrap</span>
-                                </center>
-                            </div>
-                        </div> -->
-                        <!-- <div class="o_p_box2">
-                            <center>
-                                <i class="fa fa-android o_p_icon"></i>
-                            </center>
-                            <div class="o_p_head">
-                                <center>Quiz Up</center>
-                            </div>
-                            <div class="o_p_content">
-                                It is an android based quiz system developed on Android Studio. Users 
-                                can register and play the quiz based 
-                                upon the several categories like arts & literature , history, sports
-                                etc. Each categories consist of 10 questions and the result is displayed once 
-                                you finish them all.
-                            </div>
-                            <div class="o_p_skill">
-                                <center>
-                                    <span>Java</span><span class="ml-3">XML</span><span class="ml-3">Android</span><span class="ml-3">AJAX</span><span class="ml-3">JSON</span><span class="ml-3">PHP</span>
-                                </center>
-                            </div>
-                        </div> -->
+                       
                         <div class="o_p_box1">
                             <center>
                                 <i class="fa fa-globe o_p_icon"></i>
@@ -441,37 +413,7 @@
                 // $("#m").addClass("work_inactive");
                 // $("#du").addClass("work_inactive");
             }
-             function mars()
-            {
-                document.getElementById('mars').style.display="block";
-                document.getElementById('freelancer').style.display="none";
-                document.getElementById('devxsoft').style.display="none";
-                document.getElementById('dusk').style.display="none";
-                $("#f").removeClass("work_active");
-                $("#m").removeClass("work_active");
-                $("#du").removeClass("work_active");
-                $("#d").removeClass("work_active");
-                
-                $("#d").addClass("work_inactive");
-                $("#f").addClass("work_inactive");
-                $("#m").addClass("work_active");
-                $("#du").addClass("work_inactive");
-            }
-             function dusk()
-            {
-                document.getElementById('dusk').style.display="block";
-                document.getElementById('freelancer').style.display="none";
-                document.getElementById('mars').style.display="none";
-                document.getElementById('devxsoft').style.display="none";
-                $("#f").removeClass("work_active");
-                $("#m").removeClass("work_active");
-                $("#du").removeClass("work_active");
-                $("#d").removeClass("work_active");
-                $("#d").addClass("work_inactive");
-                $("#f").addClass("work_inactive");
-                $("#m").addClass("work_inactive");
-                $("#du").addClass("work_active");
-            }
+             
             
             
         </script>

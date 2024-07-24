@@ -384,6 +384,26 @@ a:hover
     cursor:pointer;
     margin-right: -2vw !important;
 }
+.ss4
+{
+    width: 55% !important;
+    height:35vh;
+    background:url('../images/Happy.png');
+    background-size:cover;
+    border-radius:5px;
+    cursor:pointer;
+    margin-right: -2vw !important;
+}
+.ss5
+{
+    width: 55% !important;
+    height:35vh;
+    background:url('../images/cds.png');
+    background-size:cover;
+    border-radius:5px;
+    cursor:pointer;
+    margin-right: -2vw !important;
+}
 .ss3
 {
     width: 55% !important;
